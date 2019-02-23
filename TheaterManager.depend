@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1550844237 source:c:\users\lab6\desktop\theatermanager\main.cpp
+	<iostream>
+	"ManagerHeader.h"
+
+1550843888 c:\users\lab6\desktop\theatermanager\managerheader.h
+
