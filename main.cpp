@@ -1,3 +1,10 @@
+/*
+João Victor Oliveira da Hora
+ADS Manhã - 3º Ciclo
+FATEC Rubens Lara
+01/03/2019
+*/
+
 #include <iostream>
 #include "ManagerHeader.h"
 
